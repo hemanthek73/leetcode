@@ -9,4 +9,4 @@ class Solution:
                 if(r>0 and r<numRows-1 and i+increment-2*r<len(s)):
                     res+=s[i+increment-2*r]
         return res            
-        
+    convert("hemanth,3")    
